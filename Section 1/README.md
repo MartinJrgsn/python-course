@@ -310,3 +310,20 @@ print(my_string)
 ```
 
 The point about these different methods is to prove the point that there are many ways to achieve the same result, but some methods are easier to read than others. I will leave it up to you to decide which method is the easiest to understand. Complicated code increases the risk for making mistakes. The easier the code is to read, the easier it is to make changes to the code at a later stage.
+
+## Ending your Session
+
+After you have completed this section, please feel free use the notebook for any purpose you desire. However, beware that any code you run inside these cells might affect your file system with the same access rights as you as the user has access to. When you are ready to move onto the next section (TBD); You can save and shut down the notebook.
+
+Save the notebook:
+Click **File** -> **Save Notebook** (or Ctrl+S / CMD+S).
+
+Shut down the notebook:
+Click **File** -> **Close and Shut Down Notebook** (or Ctrl+Shift+Q), when prompted with "Are you sure you want to close "section-1.ipynb"?" Click **Ok**.
+
+Shut down Jupyter Notebook:
+If do not want to create more notebooks or play around with what you have learned, and you want to end your session here. You can shut down Jupyter Notebook.
+Click File -> Shut Down, when prompted with "Please confirm you want to shut down Jupyter Notebook." Click **Shut Down**. When the server has stopped, you can close the tab. If you did not shut down Jupyter Notebook properly, you can most likely find it [here](http://localhost:8888/).
+You can also shut down Anaconda Navigator by opening the window and clicking the **Exit** button. If prompted with "Quit Anaconda Navigator?", click **Yes**.
+
+If you want to re-launch Jupyter Notebook, refer back to [Introduction to Jupyter Notebook](#introduction-to-jupyter-notebook).
